@@ -1,1 +1,1 @@
-Thus project was designed to allow the user to edit out unwanted objects out of an image and filling in the area removed using the cut-out function to remove the unwanted object and the PatchMatch Algorithm to fill in the area removed.
+This project was designed to allow the user to edit out unwanted objects out of an image and filling in the area removed using the cut-out function to remove the unwanted object and the PatchMatch Algorithm to fill in the area removed.
