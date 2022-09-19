@@ -1,0 +1,3 @@
+﻿  main.cpp
+image.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  460 final project.vcxproj -> C:\Users\Games\source\repos\460 final project v2\x64\Debug\460 final project.exe
